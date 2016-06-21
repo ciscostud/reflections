@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    with the + and -
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+make me more organised and easier to find mistakes
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    incase you make a mistake or don't like the changes its easier to go back in history with git
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    it track changes easier
+
+How can you use the commands git log and git diff to view the history of files?
+
+You didn't show me yet you fuck!
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Because you can always go back
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    keep track of my apps
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If you make a mistake or don't like your changes it make its easier to go back to later version
+
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manually is good for when you made a logical change to a program. Automatically saving can save changes unessarily to changes not yet done
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Makes managing changes to files easier
+
+How can you use the commands git log and git diff to view the history of files?
+Use them together. Use get log lookup all the commit's and you diff to compare to them
+
+
+How might using version control make you more confident to make changes that could break something?
+It good to know I can try to add new funtions to my app without breaking something and not being able to go back
+
